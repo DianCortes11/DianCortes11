@@ -4,6 +4,7 @@
 I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Colombia with interest in UI/UX design, passionate about learning and challenging myself with new and exciting things. I am also an architect with experience in 2D, 3D design, renovations, signage, wayfinding, industrial and interior design, customer service and currently in the process of becoming a Full-Stack developer! Always in search for learning new things.
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -17,3 +18,7 @@ I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DianCortes11&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DianCortes11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
