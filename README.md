@@ -3,8 +3,9 @@
 ### :woman_technologist: About Me :
 I'm a Full-Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> located in Colombia with interest in UI/UX design, passionate about learning and challenging myself with new and exciting things. I am also an architect with experience in 2D, 3D design, renovations, signage, wayfinding, industrial and interior design, customer service. Always in search for learning new things.
 
-How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dianacarolinacortes/)
+:mailbox: How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dianacarolinacortes/)
 &nbsp;
+dianacorts@gmail.com
 
 ---
 
